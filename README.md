@@ -1,4 +1,4 @@
-﻿# Scaler - Airbnb Clone
+﻿# Scaler - Airbnb Clone NOTE: use user:akshaj password:akshaj
 
 A full-stack Airbnb-style marketplace application built with Django + Django REST Framework on the backend and Next.js + TypeScript on the frontend. The project includes listing browsing, host flows, geolocation map selection, booking logic, ownership checks, amenities, and review support.
 
